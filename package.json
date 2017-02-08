@@ -1,0 +1,19 @@
+{
+  "name": "picker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blecht/picker.git"
+  },
+  "author": "Przemyslaw Blecharz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blecht/picker/issues"
+  },
+  "homepage": "https://github.com/Blecht/picker#readme"
+}
